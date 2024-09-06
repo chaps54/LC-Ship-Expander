@@ -10,7 +10,7 @@
 In order to be able to download the correct NuGet dependencies,
 a new source for BepInEx needs added to `NuGet.Config`.
 
-![Add entry to NuGet.config]([Documen/ts/NuGetConfig.png](https://raw.githubusercontent.com/JamieBriggsDev/lc-ship-expander-mod/main/Documents/NuGetConfig.png)](https://raw.githubusercontent.com/JamieBriggsDev/lc-ship-expander-mod/main/Documents/NuGetConfig.png)
+![Add entry to NuGet.config]
 
 Following this, do a NuGet restore.
 
