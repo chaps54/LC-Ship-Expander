@@ -10,7 +10,7 @@
 In order to be able to download the correct NuGet dependencies,
 a new source for BepInEx needs added to `NuGet.Config`.
 
-![Add entry to NuGet.config]
+![Add entry to NuGet.config](/Documents/NuGetConfig.png)
 
 Following this, do a NuGet restore.
 
